@@ -1,0 +1,13 @@
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\bin\Debug\netstandard2.0\ColorConverter.deps.json
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\bin\Debug\netstandard2.0\ColorConverter.dll
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\bin\Debug\netstandard2.0\ref\ColorConverter.dll
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\bin\Debug\netstandard2.0\ColorConverter.pdb
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\ColorConverter.csprojAssemblyReference.cache
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\ColorConverter.AssemblyInfoInputs.cache
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\ColorConverter.AssemblyInfo.cs
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\ColorConverter.dll
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\ref\ColorConverter.dll
+C:\Users\owilkes\Documents\SOFT262\ColorConverter\ColorConverter\ColorConverter\obj\Debug\netstandard2.0\ColorConverter.pdb
