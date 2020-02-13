@@ -1,0 +1,13 @@
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\ToggleSwitchExp1.csprojAssemblyReference.cache
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\ToggleSwitchExp1.AssemblyInfoInputs.cache
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\ToggleSwitchExp1.AssemblyInfo.cs
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\ToggleSwitchExp1.dll
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\ref\ToggleSwitchExp1.dll
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\ToggleSwitchExp1.pdb
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\bin\Debug\netstandard2.0\ToggleSwitchExp1.deps.json
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\bin\Debug\netstandard2.0\ToggleSwitchExp1.dll
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\bin\Debug\netstandard2.0\ref\ToggleSwitchExp1.dll
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\bin\Debug\netstandard2.0\ToggleSwitchExp1.pdb
+C:\Users\owilkes\source\repos\ToggleSwitchExp1\ToggleSwitchExp1\ToggleSwitchExp1\obj\Debug\netstandard2.0\XamlC.stamp
